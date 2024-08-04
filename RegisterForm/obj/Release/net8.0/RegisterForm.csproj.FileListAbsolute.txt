@@ -1,0 +1,8 @@
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.csproj.AssemblyReference.cache
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.AssemblyInfoInputs.cache
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.AssemblyInfo.cs
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.csproj.CoreCompileInputs.cache
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.MvcApplicationPartsAssemblyInfo.cache
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.RazorAssemblyInfo.cache
+D:\Practice\RegisterForm\RegisterForm\obj\Release\net8.0\RegisterForm.RazorAssemblyInfo.cs
